@@ -1,0 +1,2 @@
+class DeliveryException < ApplicationRecord
+end

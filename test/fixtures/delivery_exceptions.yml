@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tracking_id: MyString
+  card_id: MyString
+  user_contact: MyString
+  exception_time: MyString
+  comment: MyString
+
+two:
+  tracking_id: MyString
+  card_id: MyString
+  user_contact: MyString
+  exception_time: MyString
+  comment: MyString
